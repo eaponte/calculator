@@ -2,7 +2,7 @@ Calculator App
 
 
 
-- Direct link at http://www.eaponte.com/portfolio/apps/calculator/calculator.html
+- Direct link at https://eaponte.github.io/calculator/
 
 - Included in my cloud-based OS http://www.eaponte.com/portfolio/leo-os
 
